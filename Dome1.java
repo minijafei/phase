@@ -15,5 +15,13 @@ public class Dome1 {
 		System.out.println("位数："+s.length());
 		System.out.println("反转："+s.reverse());
 		System.out.println("------------------");
+		System.out.println("   ,--.       <__)");
+		System.out.println("   `- |________7");
+		System.out.println("      |`.      |\\");
+		System.out.println("   .--|. \\     |.\\--.");
+		System.out.println("  /   j \\ `.7__j__\\  \\");
+		System.out.println(" |    o  | (o)____o)  |");
+		System.out.println("  \\     /   j  \\     /");
+		System.out.println("   `---'        `---'");
 	}
 }
