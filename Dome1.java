@@ -7,12 +7,13 @@ import javax.swing.plaf.synth.SynthStyle;
 public class Dome1 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
-		System.out.println("ÇëÊäÈëÒ»¸öÎåÎ»Êı£º");
+		System.out.println("è¯·è¾“å…¥ä¸€ä¸ªäº”ä½æ•°ï¼š");
 //		int num = input.nextInt();
 //		String s = num+"";
 		Integer i = input.nextInt();
 		StringBuffer s = new StringBuffer(i.toString());
-		System.out.println("Î»Êı£º"+s.length());
-		System.out.println("·´×ª£º"+s.reverse());
+		System.out.println("ä½æ•°ï¼š"+s.length());
+		System.out.println("åè½¬ï¼š"+s.reverse());
+		System.out.println("------------------");
 	}
 }
