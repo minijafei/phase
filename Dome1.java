@@ -23,6 +23,6 @@ public class Dome1 {
 		System.out.println(" |    o  | (o)____o)  |");
 		System.out.println("  \\     /   j  \\     /");
 		System.out.println("   `---'        `---'");
-		System.out.println(">>>>>>>>>>>>>>>>>>>>>");
+		System.out.println("---------------------");
 	}
 }
